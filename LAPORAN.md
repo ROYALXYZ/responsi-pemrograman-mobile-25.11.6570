@@ -1,4 +1,4 @@
-# Laporan Responsi Pemrograman Mobile
+﻿# Laporan Responsi Pemrograman Mobile
 
 ## Identitas
 
@@ -61,7 +61,7 @@ dirender ulang.
 - Proyek dibuat dengan `flutter create --project-name responsi_profil_mahasiswa`.
 - Struktur direktori mengikuti spesifikasi (`config/`, `models/`, `repositories/`,
   `providers/`, `screens/`, `services/`, `utils/`, `widgets/`).
-- Git digunakan dengan **9 commit** dan **2 branch fitur**:
+- Git digunakan dengan **11 commit** dan **2 branch fitur**:
 
 ```bash
 $ git log --graph --oneline --all
